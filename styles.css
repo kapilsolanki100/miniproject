@@ -173,7 +173,7 @@ nav {
 }
 
 .header__image::before {
-  content: "o";
+  content: "O";
   position: absolute;
   top: 0;
   left: 50%;
@@ -189,8 +189,8 @@ nav {
 .header__image img {
   border-left-width: 100px;
   margin: left 10px;
-  max-width: 1000px;
-  height: 450px;
+  max-width: 900px;
+  height: 610px;
   margin: auto;
 }
 
